@@ -2,7 +2,7 @@ import unittest
 from adapter.example.computer_adapter import Computer, Human, Synthesizer, Adapter
 
 
-class TestBuild(unittest.TestCase):
+class TestAdapter(unittest.TestCase):
 
     def test_adapter(self):
 
